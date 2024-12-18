@@ -10,8 +10,8 @@ function App() {
     <Router>
       <Routes>
       <Route path="/" element={<Home />} /> 
-        <Route path="/BangkokMap_boundary" element={<BangkokMapboundary />} /> 
-        <Route path="/BangkokMap" element={<BangkokMap />} /> 
+        {/* <Route path="/BangkokMap_boundary" element={<BangkokMapboundary />} /> 
+        <Route path="/BangkokMap" element={<BangkokMap />} />  */}
   
       </Routes>
     </Router>
